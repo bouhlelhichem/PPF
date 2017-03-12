@@ -1,3 +1,4 @@
+//fonction trie
 trier [] p = []
 trier [x] p = [x]
 trier (x:(y:xs)) p 
